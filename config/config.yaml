@@ -1,0 +1,12 @@
+dataset:
+  source: data/surveillance_cases.csv
+
+validation:
+  max_age: 120
+  reporting_delay_threshold: 14
+
+output:
+  validation_report: output/validation_report.txt
+  disease_summary: output/disease_summary.csv
+  regional_summary: output/regional_summary.csv
+  outbreak_summary: output/outbreak_summary.csv

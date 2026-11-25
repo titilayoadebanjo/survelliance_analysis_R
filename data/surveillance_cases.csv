@@ -1,0 +1,13 @@
+CaseID,PersonID,Disease,Region,HPT,SampleDate,ReportDate,LabSource,SGSS_Flag,Result,Age,Sex,Status,Hospitalised,Vaccinated,Postcode,OutbreakRef
+1001,P001,Measles,North West,Manchester,01/11/2026,03/11/2026,SGSS,Y,Positive,12,F,Open,N,N,M1,OB001
+1002,P002,Measles,North West,Manchester,01/11/2026,18/11/2026,SGSS,Y,Positive,11,M,Open,N,Y,M2,OB001
+1003,P003,Measles,London,London,02/11/2026,02/11/2026,SGSS,Y,Positive,NULL,F,Open,N,N,E1,OB002
+1004,P004,Pertussis,Yorkshire,Leeds,03/11/2026,04/11/2026,SGSS,Y,Positive,22,F,Closed,N,Y,LS1,NULL
+1005,P005,Measles,North West,Manchester,02/11/2026,03/11/2026,Manual,N,Positive,12,F,Open,N,N,M1,OB001
+1005,P005,Measles,North West,Manchester,02/11/2026,03/11/2026,Manual,N,Positive,12,F,Open,N,N,M1,OB001
+1006,P006,Measles,North West,Manchester,01/11/2026,02/11/2026,SGSS,Y,Positive,220,M,Open,N,N,M3,OB001
+1007,P007,Measles,North West,Manchester,15/12/2026,04/11/2026,SGSS,Y,Positive,14,M,Open,N,Y,M4,OB001
+1008,P008,Salmonella,South East,Southampton,04/11/2026,05/11/2026,SGSS,Y,Positive,32,F,Open,Y,N,SO1,OB004
+1009,P009,Salmonella,South East,Southampton,03/11/2026,05/11/2026,SGSS,Y,Positive,33,M,Open,Y,N,SO1,OB004
+1010,P010,Salmonella,South East,Southampton,04/11/2026,05/11/2026,SGSS,Y,Positive,29,F,Open,N,N,SO2,OB004
+1011,P011,Measles,North West,Manchester,07/11/2026,NULL,SGSS,Y,Positive,6,F,Open,N,N,M5,OB001

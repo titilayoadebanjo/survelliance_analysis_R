@@ -1,0 +1,9 @@
+SURVEILLANCE VALIDATION REPORT
+========================================
+ReportDate: 1 missing values
+Age: 1 missing values
+OutbreakRef: 1 missing values
+ReportingDelay: 1 missing values
+1 duplicate records found
+1 invalid age records
+1 date anomalies detected
